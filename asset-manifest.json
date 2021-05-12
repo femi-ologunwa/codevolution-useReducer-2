@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/codevolution-useReducer-2/static/css/main.f5e5865e.chunk.css",
+    "main.js": "/codevolution-useReducer-2/static/js/main.5102c2bf.chunk.js",
+    "main.js.map": "/codevolution-useReducer-2/static/js/main.5102c2bf.chunk.js.map",
+    "runtime-main.js": "/codevolution-useReducer-2/static/js/runtime-main.db83fe31.js",
+    "runtime-main.js.map": "/codevolution-useReducer-2/static/js/runtime-main.db83fe31.js.map",
+    "static/js/2.e5bbb58b.chunk.js": "/codevolution-useReducer-2/static/js/2.e5bbb58b.chunk.js",
+    "static/js/2.e5bbb58b.chunk.js.map": "/codevolution-useReducer-2/static/js/2.e5bbb58b.chunk.js.map",
+    "index.html": "/codevolution-useReducer-2/index.html",
+    "precache-manifest.38cdd2d3ccfae76da2f6d333081c1173.js": "/codevolution-useReducer-2/precache-manifest.38cdd2d3ccfae76da2f6d333081c1173.js",
+    "service-worker.js": "/codevolution-useReducer-2/service-worker.js",
+    "static/css/main.f5e5865e.chunk.css.map": "/codevolution-useReducer-2/static/css/main.f5e5865e.chunk.css.map",
+    "static/js/2.e5bbb58b.chunk.js.LICENSE.txt": "/codevolution-useReducer-2/static/js/2.e5bbb58b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db83fe31.js",
+    "static/js/2.e5bbb58b.chunk.js",
+    "static/css/main.f5e5865e.chunk.css",
+    "static/js/main.5102c2bf.chunk.js"
+  ]
+}
