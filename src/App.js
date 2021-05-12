@@ -1,11 +1,12 @@
 import React from 'react';
+import DataFetchingOne from './DataFetchingOne';
 import './index.css';
 
 function App() {
    return (
       <main>
          <div>
-            <h3>Hello</h3>
+            <DataFetchingOne />
          </div>
       </main>
    );
